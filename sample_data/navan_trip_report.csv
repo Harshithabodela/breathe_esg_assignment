@@ -1,0 +1,36 @@
+trip_id,booking_date,travel_date,return_date,traveler_email,category,origin,destination,cabin_class,amount_usd,currency,vendor,distance_km,nights
+TRP-001,2025-01-03,2025-01-08,2025-01-10,sarah.chen@acmecorp.com,Air,ORD,LHR,Economy,842.00,USD,British Airways,,
+TRP-002,2025-01-03,2025-01-08,2025-01-10,sarah.chen@acmecorp.com,Hotel,,London UK,,380.00,USD,Marriott London,,2
+TRP-003,2025-01-10,2025-01-10,2025-01-10,sarah.chen@acmecorp.com,Air,LHR,ORD,Economy,842.00,USD,British Airways,,
+TRP-004,2025-01-06,2025-01-09,2025-01-11,james.okafor@acmecorp.com,Air,JFK,SFO,Business,1240.00,USD,United Airlines,,
+TRP-005,2025-01-09,2025-01-09,2025-01-11,james.okafor@acmecorp.com,Hotel,,San Francisco CA,,520.00,USD,Hilton SFO,,2
+TRP-006,2025-01-11,2025-01-11,,james.okafor@acmecorp.com,Air,SFO,JFK,Business,1240.00,USD,United Airlines,,
+TRP-007,2025-01-12,2025-01-14,2025-01-14,priya.sharma@acmecorp.com,Air,BOS,ORD,Economy,310.00,USD,American Airlines,,
+TRP-008,2025-01-14,2025-01-14,,priya.sharma@acmecorp.com,Air,ORD,BOS,Economy,310.00,USD,American Airlines,,
+TRP-009,2025-01-15,2025-01-16,2025-01-18,marcus.lee@acmecorp.com,Air,LAX,DXB,Business,2180.00,USD,Emirates,,
+TRP-010,2025-01-16,2025-01-16,2025-01-18,marcus.lee@acmecorp.com,Hotel,,Dubai UAE,,680.00,USD,W Dubai,,2
+TRP-011,2025-01-18,2025-01-18,,marcus.lee@acmecorp.com,Air,DXB,LAX,Business,2180.00,USD,Emirates,,
+TRP-012,2025-01-20,2025-01-21,2025-01-21,priya.sharma@acmecorp.com,Air,BOS,DFW,Economy,420.00,USD,Delta Air Lines,,
+TRP-013,2025-01-21,2025-01-21,2025-01-23,priya.sharma@acmecorp.com,Car,,Dallas TX,,210.00,USD,Hertz,580,
+TRP-014,2025-01-21,2025-01-21,2025-01-23,priya.sharma@acmecorp.com,Hotel,,Dallas TX,,340.00,USD,Hyatt Dallas,,2
+TRP-015,2025-01-23,2025-01-23,,priya.sharma@acmecorp.com,Air,DFW,BOS,Economy,420.00,USD,Delta Air Lines,,
+TRP-016,2025-01-22,2025-01-24,2025-01-27,david.nguyen@acmecorp.com,Air,SFO,NRT,Economy,1650.00,USD,ANA,,
+TRP-017,2025-01-24,2025-01-24,2025-01-27,david.nguyen@acmecorp.com,Hotel,,Tokyo Japan,,890.00,USD,Park Hyatt Tokyo,,3
+TRP-018,2025-01-27,2025-01-27,,david.nguyen@acmecorp.com,Air,NRT,SFO,Economy,1650.00,USD,ANA,,
+TRP-019,2025-01-28,2025-01-29,2025-01-30,jennifer.walsh@acmecorp.com,Rail,ORD,STL,Economy,180.00,USD,Amtrak,457,
+TRP-020,2025-01-29,2025-01-29,2025-01-30,jennifer.walsh@acmecorp.com,Hotel,,St. Louis MO,,195.00,USD,Marriott STL,,1
+TRP-021,2025-01-30,2025-01-30,,jennifer.walsh@acmecorp.com,Rail,STL,ORD,Economy,180.00,USD,Amtrak,457,
+TRP-022,2025-02-03,2025-02-05,2025-02-07,sarah.chen@acmecorp.com,Air,ORD,CDG,Economy,990.00,USD,Air France,,
+TRP-023,2025-02-05,2025-02-05,2025-02-07,sarah.chen@acmecorp.com,Hotel,,Paris France,,620.00,USD,Hotel du Louvre,,2
+TRP-024,2025-02-07,2025-02-07,,sarah.chen@acmecorp.com,Air,CDG,ORD,Economy,990.00,USD,Air France,,
+TRP-025,2025-02-10,2025-02-11,2025-02-13,james.okafor@acmecorp.com,Air,JFK,MIA,Economy,380.00,USD,JetBlue,,
+TRP-026,2025-02-11,2025-02-11,2025-02-13,james.okafor@acmecorp.com,Hotel,,Miami FL,,440.00,USD,W South Beach,,2
+TRP-027,2025-02-13,2025-02-13,,james.okafor@acmecorp.com,Air,MIA,JFK,Economy,380.00,USD,JetBlue,,
+TRP-028,2025-02-14,2025-02-15,2025-02-16,alex.rodriguez@acmecorp.com,Air,AUS,SFO,Economy,450.00,USD,Southwest,,
+TRP-029,2025-02-15,2025-02-15,2025-02-16,alex.rodriguez@acmecorp.com,Car,,San Francisco CA,,85.00,USD,Enterprise,,
+TRP-030,2025-02-16,2025-02-16,,alex.rodriguez@acmecorp.com,Air,SFO,AUS,Economy,450.00,USD,Southwest,,
+TRP-031,2025-02-18,2025-02-19,2025-02-21,marcus.lee@acmecorp.com,Air,LAX,GRU,Business,3200.00,USD,LATAM Airlines,,
+TRP-032,2025-02-19,2025-02-19,2025-02-21,marcus.lee@acmecorp.com,Hotel,,São Paulo Brazil,,510.00,USD,Grand Hyatt SP,,2
+TRP-033,2025-02-21,2025-02-21,,marcus.lee@acmecorp.com,Air,GRU,LAX,Business,3200.00,USD,LATAM Airlines,,
+TRP-034,2025-02-24,2025-02-25,,priya.sharma@acmecorp.com,Air,BOS,XYZ,Economy,280.00,USD,Unknown Air,,
+TRP-035,2025-02-26,2025-02-27,2025-02-28,jennifer.walsh@acmecorp.com,Air,ORD,BCN,Economy,1100.00,USD,Iberia,,

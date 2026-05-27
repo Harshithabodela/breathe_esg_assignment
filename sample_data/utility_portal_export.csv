@@ -1,0 +1,19 @@
+meter_id,facility_name,service_address,billing_period_start,billing_period_end,usage_kwh,demand_kw,estimated,rate_class,amount_usd
+UTL-001,Chicago Manufacturing Plant,1400 S Lake Shore Dr Chicago IL 60605,2024-12-18,2025-01-17,48250,185.4,false,C-GS-TOU-5,6892.75
+UTL-001,Chicago Manufacturing Plant,1400 S Lake Shore Dr Chicago IL 60605,2025-01-18,2025-02-16,51820,201.2,false,C-GS-TOU-5,7402.06
+UTL-001,Chicago Manufacturing Plant,1400 S Lake Shore Dr Chicago IL 60605,2025-02-17,2025-03-18,47130,188.7,true,C-GS-TOU-5,6730.59
+UTL-001,Chicago Manufacturing Plant,1400 S Lake Shore Dr Chicago IL 60605,2025-03-19,2025-04-17,43680,172.3,false,C-GS-TOU-5,6235.44
+UTL-001,Chicago Manufacturing Plant,1400 S Lake Shore Dr Chicago IL 60605,2025-04-18,2025-05-19,39240,155.8,false,C-GS-TOU-5,5603.31
+UTL-001,Chicago Manufacturing Plant,1400 S Lake Shore Dr Chicago IL 60605,2025-05-20,2025-06-18,41560,162.4,false,C-GS-TOU-5,5932.76
+UTL-002,Austin Distribution Warehouse,7800 N Lamar Blvd Austin TX 78752,2024-12-22,2025-01-24,18340,72.1,false,GS-1,2585.94
+UTL-002,Austin Distribution Warehouse,7800 N Lamar Blvd Austin TX 78752,2025-01-25,2025-02-22,17890,68.4,false,GS-1,2522.27
+UTL-002,Austin Distribution Warehouse,7800 N Lamar Blvd Austin TX 78752,2025-02-23,2025-03-26,16420,65.2,false,GS-1,2315.22
+UTL-002,Austin Distribution Warehouse,7800 N Lamar Blvd Austin TX 78752,2025-03-27,2025-04-24,15780,60.9,false,GS-1,2224.98
+UTL-002,Austin Distribution Warehouse,7800 N Lamar Blvd Austin TX 78752,2025-04-25,2025-05-27,14960,59.3,false,GS-1,2109.36
+UTL-002,Austin Distribution Warehouse,7800 N Lamar Blvd Austin TX 78752,2025-05-28,2025-06-25,19870,78.6,true,GS-1,2801.67
+UTL-003,Dallas Regional Hub,2600 Mockingbird Ln Dallas TX 75235,2025-01-06,2025-02-04,29140,110.5,false,LGS-TOU,4140.89
+UTL-003,Dallas Regional Hub,2600 Mockingbird Ln Dallas TX 75235,2025-02-05,2025-03-06,27680,104.2,false,LGS-TOU,3933.54
+UTL-003,Dallas Regional Hub,2600 Mockingbird Ln Dallas TX 75235,2025-03-07,2025-04-06,25930,98.7,false,LGS-TOU,3685.17
+UTL-003,Dallas Regional Hub,2600 Mockingbird Ln Dallas TX 75235,2025-04-07,2025-05-07,24480,93.1,false,LGS-TOU,3479.18
+UTL-003,Dallas Regional Hub,2600 Mockingbird Ln Dallas TX 75235,2025-05-08,2025-06-08,31260,118.9,false,LGS-TOU,4444.22
+UTL-003,Dallas Regional Hub,2600 Mockingbird Ln Dallas TX 75235,2025-06-09,2025-07-09,35780,136.4,false,LGS-TOU,5085.81
